@@ -1,0 +1,1 @@
+# Zero-Shot-Evaluation-on-GPT-on-Semantic-Segmentation-of-Indian-Legal-Documents
